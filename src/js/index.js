@@ -31,7 +31,6 @@ function stopCounter() {
 
 function setTimer() {
 	let inputTimer = prompt("Time in seconds: ");
-	inputTimer;
 
 	currentCounter = inputTimer;
 
